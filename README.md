@@ -25,3 +25,4 @@
 5. [El problema de los Generales Bizantinos](notes/002/005.md).
 6. [Algunas definiciones](notes/002/006.md).
 7. [El Bitcoin ledger (El Blockchain)](notes/002/007.md).
+8. [Sincronizando el Blockchain](notes/002/008.md).
