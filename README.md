@@ -28,3 +28,4 @@
 8. [Sincronizando el Blockchain](notes/002/008.md).
 9. [Minado y prueba de trabajo](notes/002/009.md).
 10. [Ganar minando](notes/002/010.md).
+11. [Minado y el auto ajusto de los rompecabezas](notes/003/011.md).
