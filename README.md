@@ -21,3 +21,4 @@
 1. [Activos y libros de transacciones](notes/002/001.md).
 2. [Roles de los ledgers](notes/002/002.md).
 3. [Ledgers centralizados](notes/002/003.md).
+4. [Porque el Bitcoin es relevante?](notes/002/004.md).
