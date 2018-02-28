@@ -24,3 +24,4 @@
 4. [Porque el Bitcoin es relevante?](notes/002/004.md).
 5. [El problema de los Generales Bizantinos](notes/002/005.md).
 6. [Algunas definiciones](notes/002/006.md).
+7. [El Bitcoin ledger (El Blockchain)](notes/002/007.md).
