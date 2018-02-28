@@ -18,4 +18,6 @@
 
 ## Semana 2 : El problema de los Generales Bizantinos.
 
-
+1. [Activos y libros de transacciones](notes/002/001.md).
+2. [Roles de los ledgers](notes/002/002.md).
+3. [Ledgers centralizados](notes/002/003.md).
