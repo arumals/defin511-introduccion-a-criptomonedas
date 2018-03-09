@@ -31,3 +31,7 @@
 11. [Minado y el auto ajusto de los rompecabezas](notes/002/011.md).
 12. [De nuevo en el problema de los Generales Bizantinos](notes/002/012.md).
 13. [El minado, la prueba de trabajo](notes/002/013.md).
+
+## Semana 3 : Introducción a las monedas digitales.
+
+1. [Breve historia del Bitcoin](notes/003/001.md).
