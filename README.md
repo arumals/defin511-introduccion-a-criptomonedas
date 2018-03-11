@@ -36,3 +36,4 @@
 
 1. [Breve historia del Bitcoin](notes/003/001.md).
 2. [Fundamentos de la Criptografía de los Bitcoins](notes/003/002.md).
+3. [Transacciones y el Blockchain](notes/003/003.md).
