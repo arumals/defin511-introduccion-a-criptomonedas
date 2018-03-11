@@ -42,3 +42,4 @@
 ## Semana 4 : Bitcoins en la práctica.
 
 1. [Bitcoin Wallets (Monedero)](notes/004/001.md).
+2. [Clientes Bitcoin](notes/005/002.md).
