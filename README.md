@@ -44,3 +44,4 @@
 1. [Bitcoin Wallets (Monedero)](notes/004/001.md).
 2. [Clientes Bitcoin](notes/004/002.md).
 3. [Proteccion del Wallet](notes/004/003.md).
+4. [Cold Storage](notes/004/004.md).
