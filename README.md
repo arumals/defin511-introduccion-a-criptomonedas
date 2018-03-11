@@ -35,3 +35,4 @@
 ## Semana 3 : Introducción a las monedas digitales.
 
 1. [Breve historia del Bitcoin](notes/003/001.md).
+2. [Fundamentos de la Criptografía de los Bitcoins](notes/003/002.md).
