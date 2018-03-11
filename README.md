@@ -39,7 +39,7 @@
 3. [Transacciones y el Blockchain](notes/003/003.md).
 4. [Minado](notes/003/004.md).
 
-## Semana 4 : Bitcoins en la práctica.
+## Semana 4 : Bitcoins en la Práctica I.
 
 1. [Bitcoin Wallets (Monedero)](notes/004/001.md).
 2. [Clientes Bitcoin](notes/004/002.md).
