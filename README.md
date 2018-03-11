@@ -38,3 +38,7 @@
 2. [Fundamentos de la Criptografía de los Bitcoins](notes/003/002.md).
 3. [Transacciones y el Blockchain](notes/003/003.md).
 4. [Minado](notes/003/004.md).
+
+## Semana 4 : Bitcoins en la práctica.
+
+1. [Bitcoin Wallets (MonederoMonedeross)](notes/004/001.md).
