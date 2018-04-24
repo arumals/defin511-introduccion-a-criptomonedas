@@ -45,3 +45,7 @@
 2. [Clientes Bitcoin](notes/004/002.md).
 3. [Proteccion del Wallet](notes/004/003.md).
 4. [Cold Storage](notes/004/004.md).
+
+## Semana 5 : Bitcoins en la Práctica II.
+
+1. [Bitcoin Core](notes/005/001.md).
